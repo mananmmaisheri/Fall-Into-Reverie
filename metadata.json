@@ -1,0 +1,6 @@
+{
+  "name": "Reverie",
+  "description": "A high-fidelity premium interactive landing page for Reverie with scroll-linked immersive zoom-through effects and elegant parallax.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
